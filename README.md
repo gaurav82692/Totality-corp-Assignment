@@ -4,6 +4,9 @@ I tried to complete full assignment into three part.<br>
 2. Training notebook -> Transfer learning on Inception v3 architecture.<br>
 3. Inference classification model on test dataset.
 
+### Saved model link:
+https://drive.google.com/file/d/1f-7KKgBeU7Sz3sfNsh5nMZ4GwZp7ZUSS/view?usp=sharing
+
 ## AccVal_acc and LossVal_loss
 
 
